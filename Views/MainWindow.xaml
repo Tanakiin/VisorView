@@ -4,7 +4,7 @@
         xmlns:wv2="clr-namespace:Microsoft.Web.WebView2.Wpf;assembly=Microsoft.Web.WebView2.Wpf"
         xmlns:local="clr-namespace:VisorView"
         Title="VisorView"
-        Icon="/VisorView.ico"
+        Icon="pack://application:,,,/Assets/VisorView.ico"
         Width="200"
         Height="200"
         WindowStyle="None"
@@ -13,6 +13,8 @@
         ResizeMode="NoResize"
         Topmost="True"
         ShowInTaskbar="True">
+
+
 
     <Window.Resources>
         <local:TabColorConverter x:Key="TabColorConverter"/>
