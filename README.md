@@ -1,6 +1,6 @@
 # VisorView
 
-**VisorView** is a lightweight, always-on-top overlay for Windows that lets you pin **webpages or images** above everything else — think documentation, maps, references, or dashboards that stay visible while you work or game.
+**VisorView** is a lightweight, always-on-top overlay for Windows that lets you pin **webpages or images** above everything else. Stuff like documentation, maps, references, or dashboards that stay visible while you work or game.
 
 The goal is simple: *zero friction, zero clutter, maximum utility.*
 
