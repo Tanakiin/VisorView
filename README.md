@@ -56,7 +56,8 @@ This produces a single executable that runs without requiring .NET to be install
 
 ## Download
 
-➡️ **[Download VisorView (Windows)](LINK_GOES_HERE)**  
+➡️ [Download VisorView (Windows)](https://github.com/tanakiin/VisorView/releases/latest)
+
 *(release builds will be posted here)*
 
 ---
